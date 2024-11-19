@@ -1,4 +1,4 @@
-package com.dantu.software;
+package com.dantu.software.lox;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
